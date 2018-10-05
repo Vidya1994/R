@@ -1,5 +1,3 @@
-setwd("C:/Users/Vidya Gopalan/Downloads/Machine Learning - Udemy/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing")
-
 dataset = read.csv('Data.csv')
 
 View(dataset)
